@@ -1,4 +1,4 @@
-name: Terraform Cloud Run
+name: Terraform Cloud Run via API
 author: Koenraad Verheyden
 description: Create and customize a run on Terraform Cloud
 
