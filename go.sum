@@ -17,8 +17,8 @@ github.com/kvrhdn/go-tfe-run v0.3.3 h1:eFjdAkZZXT9JDhM+4Z+RA8v0UFhv8itU4a0z3Sb9h
 github.com/kvrhdn/go-tfe-run v0.3.3/go.mod h1:NsPloxDJ+hs6yDY10T9FKhJbRbS0Ty4QKhE1HQfU0BQ=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/sethvargo/go-githubactions v0.3.0 h1:Mhcb6rXI5/7RCJC3ktVbgkQ2iqJRoO8HjwpqD0eGPPQ=
-github.com/sethvargo/go-githubactions v0.3.0/go.mod h1:ugCoIFQjs7HxIwwYiY7ty6H9T+7Z4ey481HxqA3VRKE=
+github.com/sethvargo/go-githubactions v1.3.0 h1:Kg633LIUV2IrJsqy2MfveiED/Ouo+H2P0itWS0eLh8A=
+github.com/sethvargo/go-githubactions v1.3.0/go.mod h1:7/4WeHgYfSz9U5vwuToCK9KPnELVHAhGtRwLREOQV80=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
