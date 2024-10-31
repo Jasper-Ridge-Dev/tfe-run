@@ -1,6 +1,6 @@
 module github.com/kvrhdn/tfe-run
 
-go 1.14
+go 1.23
 
 require (
 	github.com/kvrhdn/go-tfe-run v0.3.3
