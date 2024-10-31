@@ -5,7 +5,7 @@ go 1.23
 require (
 	github.com/kvrhdn/go-tfe-run v0.3.3
 	github.com/sethvargo/go-githubactions v0.3.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
@@ -18,5 +18,5 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/svanharmelen/jsonapi v0.0.0-20180618144545-0c0828c3f16d // indirect
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
