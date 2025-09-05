@@ -10,7 +10,7 @@ branding:
 inputs:
   token:
     description: |
-      Token used to communicating with the Terraform Cloud API. Must be a user or team api token.
+      Token used to communicate with the Terraform Cloud API. Must be a user or team api token.
     required: true
   organization:
     description: |
